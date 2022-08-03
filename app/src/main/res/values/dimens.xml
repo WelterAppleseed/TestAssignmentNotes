@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="st_15_dp">15dp</dimen>
+    <dimen name="st_30_dp">30dp</dimen>
+    <dimen name="tv_et_range">30dp</dimen>
+    <dimen name="fnt_note_txtsz_tv">22sp</dimen>
+    <dimen name="fnt_notedetails_txtsz_tv">32sp</dimen>
+    <dimen name="btn_size">50dp</dimen>
+    <dimen name="fnt_note_txtsz_et">22sp</dimen>
+    <dimen name="note_details_top_margin">50dp</dimen>
+</resources>

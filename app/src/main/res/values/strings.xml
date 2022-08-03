@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TestAssignmentNotes</string>
+    <string name="type_t_here_hint">Type title here…</string>
+    <string name="type_c_here_hint">Type content here…</string>
+    <string name="cancel">Cancel</string>
+    <string name="agree">Agree</string>
+    <string name="create">Create</string>
+    <string name="modif_sort">Sort by Modifying Date</string>
+    <string name="def_sort">Sort by Created Time</string>
+    <string name="doesn_t_created_yet">Doesn\'t created yet</string>
+    <string name="doesn_t_modified_yet">Doesn\'t modified yet</string>
+    <string name="note_created">Note Created:</string>
+    <string name="note_title">Note Title:</string>
+    <string name="note_details">Note Details</string>
+    <string name="note_modified">Note Modified:</string>
+    <string name="sort">Sort</string>
+    <string name="note_content">Note Content:</string>
+</resources>

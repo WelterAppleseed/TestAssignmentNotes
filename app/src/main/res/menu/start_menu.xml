@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_websearch"
+        android:icon="@drawable/menu_dr_wh"
+        android:orderInCategory="3"
+        android:title="@string/sort"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/modif_sort"
+                android:icon="@drawable/alph_sort_dr"
+                android:title="@string/modif_sort" />
+            <item
+                android:id="@+id/def_sort"
+                android:icon="@drawable/default_sort_dr"
+                android:title="@string/def_sort" />
+        </menu>
+    </item>
+</menu>
